@@ -1,4 +1,4 @@
-# nohup介绍
+# nohup介绍[nohup](https://blog.csdn.net/lovewebeye/article/details/82934049)
   - 表示不挂断运行，让应用程序在后台运行，不会因为终端的关闭，应用程序也关闭
   - &
     - nohup通常和 & 符号一起使用
